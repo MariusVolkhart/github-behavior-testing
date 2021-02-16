@@ -1,4 +1,4 @@
 # GitHub Behavior Testing
 
 
-Some text
+Some text.
